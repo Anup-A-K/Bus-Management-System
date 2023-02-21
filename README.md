@@ -1,2 +1,2 @@
 # Bus-Management-System
-Made with love using java swing ;P
+Made using java swing ;P
